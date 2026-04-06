@@ -289,7 +289,7 @@ export enum CHAIN {
   SKALE = "skale",
   SUPRA = "supra",
   MAYA = "mayachain",
-  ALEPH_ZERO_EVM = "aleph_zero_evm",
+  ALEPH_ZERO_EVM = "aleph_zero",
   APPCHAIN = "appchain",
   SEDA = "seda",
   STABLE = "stable",
@@ -349,4 +349,8 @@ export enum CHAIN {
   MIGALOO = "migaloo",
   BITROCK = "bitrock",
   QIEV3 = "qiev3",
+  BITTENSOR = "bittensor",
+  TEMPO = "tempo",
+  HOTSTUFF = "hotstuff",
+  CHIA = "chia",
 }
